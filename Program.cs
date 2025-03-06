@@ -94,7 +94,6 @@ public class StockExchange
     }
 }
 
-// ------ TESTING ------
 class Program
 {
     static void Main()
