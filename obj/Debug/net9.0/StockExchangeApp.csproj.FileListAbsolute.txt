@@ -1,0 +1,14 @@
+/Users/akashaluguri/StockExchangeApp/bin/Debug/net9.0/StockExchangeApp
+/Users/akashaluguri/StockExchangeApp/bin/Debug/net9.0/StockExchangeApp.deps.json
+/Users/akashaluguri/StockExchangeApp/bin/Debug/net9.0/StockExchangeApp.runtimeconfig.json
+/Users/akashaluguri/StockExchangeApp/bin/Debug/net9.0/StockExchangeApp.dll
+/Users/akashaluguri/StockExchangeApp/bin/Debug/net9.0/StockExchangeApp.pdb
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/StockExchangeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/StockExchangeApp.AssemblyInfoInputs.cache
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/StockExchangeApp.AssemblyInfo.cs
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/StockExchangeApp.csproj.CoreCompileInputs.cache
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/StockExchangeApp.dll
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/refint/StockExchangeApp.dll
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/StockExchangeApp.pdb
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/StockExchangeApp.genruntimeconfig.cache
+/Users/akashaluguri/StockExchangeApp/obj/Debug/net9.0/ref/StockExchangeApp.dll
